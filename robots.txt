@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://frankayo228-afk.github.io/orvane/sitemap.xml
